@@ -1,7 +1,13 @@
-### Hi there 👋
+<h1 align='center'> Hi! :wave:</h1>
+<h3> Wanna hear a joke ? 😄😄 </h3>
+<h3 align='Left'>I am the Junior Developer with the skill level of Senior Developer who can work at the pay of an Intern </h3>
+- 🔭 I’m currently working on : Sentiment Detection <br>
+- 👯 I’m looking to collaborate on : Full-Stack Projects .
+
+
 
 <!--
-**Thunderk3g/ThunderK3G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Thunderk3g/ThunderK3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
