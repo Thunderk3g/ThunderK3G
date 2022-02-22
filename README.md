@@ -1,11 +1,13 @@
 <h1 align='center'> Hi! :wave:</h1>
-<h3> Wanna hear a joke ? 😄😄 </h3>
-<h3 align='Left'>I am the Junior Developer with the skill level of Senior Developer who can work at the pay of an Intern </h3>
-- 🔭 I’m currently working on : Sentiment Detection <br>
-- 👯 I’m looking to collaborate on : Full-Stack Projects .
-
-
-
+<h3> Here is my Portfolio if you are interested </h3>
+<h3 align='center'>portfolio-flame-five.vercel.app </h3>
+- 🔭 I’m currently working on : Web 3.0 & Solidity related projects <br>
+- 🌱 I’m currently learning : Web 3.0 , Solidity , Smart Contracts and Blockchain Technology <br>
+- 👯 I’m looking to collaborate on : Web 3.0 projects. <br>
+- 👯 I recently : Made a discord bots that play music and wordle and deployed them on Heroku . Check it out : <br>
+       https://github.com/Thunderk3g/Kancha-Bot  <br>
+       https://github.com/Thunderk3g/Wordle-Bot  <br>
+- 💬 How to reach me: You can always drop me an email on : diwakar29buddy@gmail or my Instagram : khuching_paryo
 <!--
 **Thunderk3g/ThunderK3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
