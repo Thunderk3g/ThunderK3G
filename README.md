@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diwakar adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diwakar adhikari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diwakar-adhikari-0998b334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diwakar adhikari" height="30" width="40" /></a>
 <a href="https://fb.com/diwakar.adhikari.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diwakar adhikari" height="30" width="40" /></a>
 <a href="https://instagram.com/khuching_paryo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khuching_paryo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Thund3rkeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@thund3rkeg" height="30" width="40" /></a>
