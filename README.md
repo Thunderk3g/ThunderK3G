@@ -1,25 +1,9 @@
 <h1 align='center'> Hi! :wave:</h1>
-<h3> Here is my Portfolio if you are interested </h3>
-<h3 align='center'>portfolio-flame-five.vercel.app </h3>
-- 🔭 I’m currently working on : Web 3.0 & Solidity related projects <br>
-- 🌱 I’m currently learning : Web 3.0 , Solidity , Smart Contracts and Blockchain Technology <br>
-- 👯 I’m looking to collaborate on : Web 3.0 projects. <br>
-- 👯 I recently : Made a discord bots that play music and wordle and deployed them on Heroku . Check it out : <br>
+<h3 align ="left">[Here is my Portfoliok](https://portfolio-flame-five.vercel.app/)</h3> <br>
+- 🔭 I’m currently working on : Web 3.0 & Solidity related projects <br> <br>
+- 🌱 I’m currently learning : Web 3.0 , Solidity , Smart Contracts and Blockchain Technology  <br> <br>
+- 👯 I’m looking to collaborate on : Web 3.0 projects. <br> <br>
+- 👯 I recently : Made a discord bots that play music and wordle and deployed them on Heroku . Check it out :  <br> <br>
        https://github.com/Thunderk3g/Kancha-Bot  <br>
-       https://github.com/Thunderk3g/Wordle-Bot  <br>
+       https://github.com/Thunderk3g/Wordle-Bot   <br> <br>
 - 💬 How to reach me: You can always drop me an email on : diwakar29buddy@gmail or my Instagram : khuching_paryo
-<!--
-**Thunderk3g/ThunderK3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-->
