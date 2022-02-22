@@ -1,5 +1,5 @@
 <h1 align='center'> Hi! :wave:</h1>
-<h3 align ="left">[Here is my Portfoliok](https://portfolio-flame-five.vercel.app/)</h3> <br>
+
 - 🔭 I’m currently working on : Web 3.0 & Solidity related projects <br> <br>
 - 🌱 I’m currently learning : Web 3.0 , Solidity , Smart Contracts and Blockchain Technology  <br> <br>
 - 👯 I’m looking to collaborate on : Web 3.0 projects. <br> <br>
