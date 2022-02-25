@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=thunderk3g&label=Profile%20views&color=0e75b6&style=flat" alt="thunderk3g" /> </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&vCenter=true&lines=Hey+ya+!!!+%F0%9F%91%8B;This+is+Diwakar+Adhikari......;Welcome+to+my+profile+!;Make+sure+you+star+some+repo+%F0%9F%98%83">
@@ -9,7 +10,6 @@
   <code><a href="https://instagram.com/khuching_paryo" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thunderk3g&label=Profile%20views&color=0e75b6&style=flat" alt="thunderk3g" /> </p>
 
 - 🔭 I’m currently working on [A Nepali Discord bot that plays Wordle and Plays Music](https://github.com/Thunderk3g/Kancha-Bot)
 
