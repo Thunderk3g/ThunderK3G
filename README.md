@@ -16,7 +16,7 @@
 <br>
 <br>
 <h3 align="center">Languages and Tools:</h3>
-<table width="320px">
+<table width="320px" align="center">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
@@ -64,7 +64,7 @@
             </td>
             <td width="80px" align="center">
             <span><strong>Firebase</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.sv">
+            <img height="32px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
             <td width="80px" align="center">
             <span><strong>Heroku</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
