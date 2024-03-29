@@ -1,17 +1,15 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=thunderk3g&label=Profile%20views&color=0e75b6&style=flat" alt="thunderk3g" /> </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&vCenter=true&lines=Hey+ya+!!!+%F0%9F%91%8B;This+is+Diwakar+Adhikari......;Welcome+to+my+profile+!;Make+sure+you+star+some+repo+%F0%9F%98%83">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&vCenter=true&lines=Hey+ya+!!!+%F0%9F%91%8B;This+is+Vinayak+Bora;Welcome+to+my+profile+!;Make+sure+you+star+some+repo+%F0%9F%98%83">
   </a>
 </h1>
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/diwakar-adhikari-0998b334/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/Thund3rkeg" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://instagram.com/khuching_paryo" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/vinayak-bora-7833311b7/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Diwakar Adhikari (Thunderk3g), Computer Engineer & Software Developer from Nepal
+  Hi, I'm Vinayak Bora, a Computer Engineer & Software Developer.
  </p>
 <br>
 <br>
