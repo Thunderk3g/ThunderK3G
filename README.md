@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=thunderk3g&label=Profile%20views&color=0e75b6&style=flat" alt="thunderk3g" /> </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&vCenter=true&lines=Hey+ya+!!!+%F0%9F%91%8B;This+is+Diwakar+Adhikari......;Welcome+to+my+profile+!;Make+sure+you+star+some+repo+%F0%9F%98%83">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&vCenter=true&lines=Hey+ya+!!!+%F0%9F%91%8B;This+is+Diwakar+Adhikari......;Welcome+to+my+profile+!;Make+sure+you+star+some+repo+%F0%9F%98%83" align ="center">
   </a>
 </h1>
 <h5 align="center">
@@ -10,6 +10,9 @@
   <code><a href="https://instagram.com/khuching_paryo" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
+<div align="center">
+  <img width="320px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR0cjZ2djhyejN5djE4ZW56eHR0bGltYTQyYW9lcjMzZzZsbGtmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q9rwt90Q7Z2y6TZLSx/source.gif">
+</div>
 <p align="center">
   Hi, I'm Diwakar Adhikari (Thunderk3g), Computer Engineer & Software Developer from Nepal
  </p>
