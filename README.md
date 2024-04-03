@@ -13,68 +13,16 @@
 <div align="center">
   <img width="320px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR0cjZ2djhyejN5djE4ZW56eHR0bGltYTQyYW9lcjMzZzZsbGtmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q9rwt90Q7Z2y6TZLSx/source.gif">
 </div>
-<p align="center">
-  Hi, I'm Diwakar Adhikari (Thunderk3g), Computer Engineer & Software Developer from Nepal
- </p>
 <br>
 <br>
-<h3 align="center">Languages and Tools:</h3>
-<table width="320px" align="center">
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Angular</strong></span><br>
-            <img height="32px" src="https://angular.io/assets/images/logos/angular/angular.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Bootstrap</strong></span><br>
-            <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://www.chartjs.org/media/logo-title.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            <td width="80px" align="center">
-            <span><strong>CodeIgniter</strong></span><br>
-            <img height="32px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg">
-            </td>
-        </tr>
-          <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Docker</strong></span><br>
-            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Express</strong></span><br>
-            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Firebase</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-            <td width="80px" align="center">
-            <span><strong>Heroku</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
-            </td>
-        </tr>
-    </tbody>
-</table>
+<div align ="center" style="border: .5px solid;">
+  <p align="center">I am Diwakar Adhikari. I currently work as a Software Engineer in Bajaj Finserv.</p>
+</div>
+<br>
+<br>
+<div align ="center" style="border: .5px solid;">
+  <p align="center">I am currently working on PseudoServe -  A Mock API Solution based on the MEAN Stack.</p>
+</div>
 <br>
 <br>
 <p align=center>
