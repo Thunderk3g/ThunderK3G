@@ -21,7 +21,7 @@
 <br>
 <br>
 <div align ="center" style="border: .5px solid;">
-  <p align="center">I am currently working on PseudoServe -  A Mock API Solution based on the MEAN Stack.</p>
+  <p align="center">I am currently working on writing a research paper on Using Quantization to optimize LLM's and AI agent to work in small hardwares</p>
 </div>
 <br>
 <br>
