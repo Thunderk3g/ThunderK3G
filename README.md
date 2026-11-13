@@ -19,13 +19,13 @@
 </p>
 
 <div align="center" style="border: .5px solid;">
-  <p align="center">I am Diwakar Adhikari. I currently work as Technical Lead, AI Engineering at Bajaj Life Insurance in Pune, where I started and lead AI engineering for the sales and marketing function: agentic, retrieval-grounded and speech systems in production for regulated financial services.</p>
+  <p align="center">I am Diwakar Adhikari. I currently work as Technical Lead, AI Engineering at Bajaj Life Insurance (formerly Bajaj Allianz Life) in Pune, where I started and lead AI engineering for the sales and marketing function: agentic, retrieval-grounded and speech systems in production for regulated financial services.</p>
 </div>
 
 <br>
 
 <div align="center" style="border: .5px solid;">
-  <p align="center">I am currently writing up two pieces of research: a measurement of constraint density in formalised regulatory rule bases, and an operational study of grounded, fail-closed compliance review in production. My research interests are AI &amp; Law and code-switched (Hinglish) speech technology.</p>
+  <p align="center">I study evaluation failures: checks that report success they have not earned, in formalised legal rule bases (AI &amp; Law) and in code-switched Hinglish speech. I am writing up two pieces of research: a measurement of constraint density in formalised regulatory rule bases, and an operational study of grounded, fail-closed compliance review in production.</p>
 </div>
 
 <br>
@@ -38,11 +38,34 @@
 
 ## 🧭 What I work on
 
-- **Deterministic state machines around LLMs.** A chat-based term-insurance purchase journey in English, Hindi and Hinglish (in user-acceptance testing): the model only reads and phrases text, while 119 versioned rules, 62 flow steps and 6 rate tables decide every step, and a write-ahead ledger gates calls to 18 insurer APIs.
+- **Deterministic state machines around LLMs.** A chat-based term-insurance purchase journey in English, Hindi and Hinglish (in user-acceptance testing): the model only reads and phrases text, while 119 versioned rules, 62 flow steps and 6 rate tables decide every step, and a write-ahead ledger gates calls to 18 of the insurer's APIs.
 - **Grounded, fail-closed compliance review.** A LangGraph reviewer in production that grades marketing copy against IRDAI, SEBI and brand rules: hybrid retrieval (pgvector and BM25, reciprocal rank fusion), and a deterministic check that drops any finding whose quoted evidence is not literally in the source.
 - **Speech analytics and code-switched Hinglish ASR.** Call analytics in six languages, a realtime speech-to-speech voice agent, and an ASR corpus pipeline where no speaker crosses a split.
 - **Lead scoring with time-based validation.** A LightGBM model with a point-in-time leakage gate: PR-AUC 0.348 and 30× lift in the top 1% on a later-period holdout.
 - **Evaluation that can fail.** When the full corpus did not support my own 5.6× pilot result, I withdrew the claim and [wrote up why](https://portfolio-flame-five.vercel.app/writing/falsifying-my-own-result).
+
+## 🔭 What I am exploring next: insurance white space in India
+
+I asked what one person with AI agents can legally run in Indian insurance, and what the market is missing. An agent can read, compare and explain a policy; it cannot be the seller of record. So the open ground is information and outcomes, not sales. [Read the article](https://portfolio-flame-five.vercel.app/writing/insurance-white-space).
+
+The two I most want to build:
+
+- **Claim Reversal Engine.** Check a health-claim rejection, clause by clause, against the policy wording in force, the regulator's circulars and published ombudsman awards, then draft the grievance for the customer to file. Every quoted clause must be literally in the wording, and a person signs before anything is filed.
+- **Bima Graph.** An open, machine-readable graph of retail policy wordings (exclusions, sub-limits, waiting periods, riders), versioned over time and published as an API and an MCP server. The claims checker is only as good as the wording it reads, so this comes first.
+
+Where each idea stands in India, as far as my research could find:
+
+| Idea | In India today |
+| --- | --- |
+| Open, machine-readable graph of policy wordings (Bima Graph) | Does not exist at wording depth |
+| Rails that let a customer's own AI agent buy compliantly | Does not exist |
+| Mis-selling surveillance tied to the named salesperson | Does not exist at depth |
+| Claim-rejection checker and grievance drafter (Claim Reversal Engine) | Early; one funded player |
+| Compliance copilot for the new distribution rules | Partial and generic |
+| Hospital-bill audit before and after admission | Early |
+| Household agent that works only for the customer | Partial; nobody has made it pay |
+
+Nothing here is built yet. It is personal research from public sources, not my employer's view, and not legal advice.
 
 ## 🛠️ Tech Stack
 
@@ -109,15 +132,16 @@
 ## 🚀 Projects
 
 - **[ARBOR](https://github.com/Thunderk3g/Arbor)**: Agent-governance and safety kernel for agents that act on real systems: single-use Ed25519 approval tokens for irreversible actions, a hash-chained audit log with Merkle roots, and a tool gateway that runs a taint firewall before approval. A 16-section RFC, 11 decision records and 219 passing tests. A kernel with working vertical slices, not a platform.
-- **[FORGELM](https://github.com/Thunderk3g/ForgeLM)**: Small task models against LLMs. A 4-bit QLoRA fine-tuning platform (built with two collaborators), then CPU experiments with paired-bootstrap and McNemar gates. On Banking77 at 8 labels per class, a frozen encoder with a linear head scored 87.5% at ~3 ms against 66.9% at ~770 ms for a few-shot 1.5B LLM. Self-directed, not published benchmarks.
+- **[FORGELM](https://github.com/Thunderk3g/ForgeLM)**: Small task models against a small prompted LLM. A 4-bit QLoRA fine-tuning platform (built with two collaborators), then CPU experiments with paired-bootstrap and McNemar gates. On Banking77 at 8 labels per class, a frozen encoder with a linear head scored 85.8% ± 0.4 on the full test set, and on a 1,000-text subset beat a few-shot 1.5B LLM by 87.5% to 66.9%, at ~3 ms against ~770 ms. With all the labels it reached 93.1% after 38 s of CPU training. Self-directed, not published benchmarks; no larger or fine-tuned LLM was tested.
 - **[MNEME](https://github.com/Thunderk3g/Mneme)**: LLM knowledge compiler that turns PDF, HTML and text into a cross-referenced, cited wiki that is queried directly, instead of paying retrieval cost on every question. No baseline against RAG yet.
 - **[THUNDERKEG-HOMEPAGE](https://github.com/Thunderk3g/thunderkeg-homepage)**: A portfolio you boot: a Kali-style desktop in the browser with 13 apps, a real Linux 6.8 kernel (v86) and PostgreSQL 18 (PGlite), around a paper-study workbench. [Try it live](https://portfolio-flame-five.vercel.app).
 
 ## 📚 Research & Writing
 
-- **Coverage is not constraint** (working paper): measuring constraint density in formalised regulatory rule bases. On the public DAPRECO GDPR rule base: 962 rules, a mean constraint density of 0.462, and 43 rules (4.5%) that cannot tell any two scenarios apart. [Read the post](https://portfolio-flame-five.vercel.app/writing/coverage-is-not-constraint)
+- **Coverage is not constraint** (working paper): measuring constraint density in formalised regulatory rule bases. On the public DAPRECO GDPR rule base: 962 rules, a mean constraint density of 0.462, and 43 rules (4.5%) whose conditions are all corpus-common (9 when only the GDPR's own scope predicates count). [Read the post](https://portfolio-flame-five.vercel.app/writing/coverage-is-not-constraint) · [the script that reproduces it](https://portfolio-flame-five.vercel.app/research/dapreco-density.py)
 - **Grounded, fail-closed compliance review in production** (manuscript in preparation): what broke, and why the filter was not the problem. [A permissive default is an unverified claim about a distribution](https://portfolio-flame-five.vercel.app/writing/a-permissive-default-is-a-claim)
 - **Falsifying my own headline result**: a third ASR hypothesis lifted auto-accepted labels 5.6× on a pilot slice, and the full corpus took almost all of it away. [Read the post](https://portfolio-flame-five.vercel.app/writing/falsifying-my-own-result)
+- **Two things Indian insurance does not have yet**: what one person with AI agents can legally run in Indian insurance, and the two gaps I want to build into. [Read the post](https://portfolio-flame-five.vercel.app/writing/insurance-white-space)
 - **SustainAI: Enhancing Sustainable Energy Forecasting**, presented at CSEAI 2023.
 
 More on the [writing page](https://portfolio-flame-five.vercel.app/writing).
