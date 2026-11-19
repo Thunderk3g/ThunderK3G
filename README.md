@@ -46,26 +46,9 @@
 
 ## 🔭 What I am exploring next: insurance white space in India
 
-I asked what one person with AI agents can legally run in Indian insurance, and what the market is missing. An agent can read, compare and explain a policy; it cannot be the seller of record. So the open ground is information and outcomes, not sales. [Read the article](https://portfolio-flame-five.vercel.app/writing/insurance-white-space).
+I am looking at where AI agents can genuinely help people in Indian insurance, within what the rules allow. My short take so far: the open ground is in information and outcomes for customers, not in selling policies. [Read the article](https://portfolio-flame-five.vercel.app/writing/insurance-white-space).
 
-The two I most want to build:
-
-- **Claim Reversal Engine.** Check a health-claim rejection, clause by clause, against the policy wording in force, the regulator's circulars and published ombudsman awards, then draft the grievance for the customer to file. Every quoted clause must be literally in the wording, and a person signs before anything is filed.
-- **Bima Graph.** An open, machine-readable graph of retail policy wordings (exclusions, sub-limits, waiting periods, riders), versioned over time and published as an API and an MCP server. The claims checker is only as good as the wording it reads, so this comes first.
-
-Where each idea stands in India, as far as my research could find:
-
-| Idea | In India today |
-| --- | --- |
-| Open, machine-readable graph of policy wordings (Bima Graph) | Does not exist at wording depth |
-| Rails that let a customer's own AI agent buy compliantly | Does not exist |
-| Mis-selling surveillance tied to the named salesperson | Does not exist at depth |
-| Claim-rejection checker and grievance drafter (Claim Reversal Engine) | Early; one funded player |
-| Compliance copilot for the new distribution rules | Partial and generic |
-| Hospital-bill audit before and after admission | Early |
-| Household agent that works only for the customer | Partial; nobody has made it pay |
-
-Nothing here is built yet. It is personal research from public sources, not my employer's view, and not legal advice.
+Personal research from public sources, not my employer's view.
 
 ## 🛠️ Tech Stack
 
@@ -141,7 +124,7 @@ Nothing here is built yet. It is personal research from public sources, not my e
 - **Coverage is not constraint** (working paper): measuring constraint density in formalised regulatory rule bases. On the public DAPRECO GDPR rule base: 962 rules, a mean constraint density of 0.462, and 43 rules (4.5%) whose conditions are all corpus-common (9 when only the GDPR's own scope predicates count). [Read the post](https://portfolio-flame-five.vercel.app/writing/coverage-is-not-constraint) · [the script that reproduces it](https://portfolio-flame-five.vercel.app/research/dapreco-density.py)
 - **Grounded, fail-closed compliance review in production** (manuscript in preparation): what broke, and why the filter was not the problem. [A permissive default is an unverified claim about a distribution](https://portfolio-flame-five.vercel.app/writing/a-permissive-default-is-a-claim)
 - **Falsifying my own headline result**: a third ASR hypothesis lifted auto-accepted labels 5.6× on a pilot slice, and the full corpus took almost all of it away. [Read the post](https://portfolio-flame-five.vercel.app/writing/falsifying-my-own-result)
-- **Two things Indian insurance does not have yet**: what one person with AI agents can legally run in Indian insurance, and the two gaps I want to build into. [Read the post](https://portfolio-flame-five.vercel.app/writing/insurance-white-space)
+- **White space in Indian insurance**: where AI agents can help customers in Indian insurance, and where they cannot. [Read the post](https://portfolio-flame-five.vercel.app/writing/insurance-white-space)
 - **SustainAI: Enhancing Sustainable Energy Forecasting**, presented at CSEAI 2023.
 
 More on the [writing page](https://portfolio-flame-five.vercel.app/writing).
